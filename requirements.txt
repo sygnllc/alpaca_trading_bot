@@ -1,0 +1,9 @@
+alpaca-trade-api
+stable-baselines3
+matplotlib
+pandas
+numpy
+gym
+requests
+python-dotenv
+
